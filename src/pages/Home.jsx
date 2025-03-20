@@ -52,7 +52,7 @@ const Home = () => {
       <h3>Contact Me</h3>
       <p> Email: matyostsegay@gmail.com</p>
       <p> LinkedIn: linkedin.com/Matyos tsegay</p>
-      <p> github: linkedin.com/Matyos tsegay</p>
+      <p> github:https://github.com/matthewtsegay</p>
       <button className="btn-primary">Hire Me</button>
     </div>
   );
