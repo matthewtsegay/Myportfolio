@@ -55,14 +55,12 @@ myportfolio/
 ## Deployment
 To deploy your website, run:
 ```sh
-npm run dev
+npm run build
 ```
 Then, use platforms like **Vercel, Netlify, or GitHub Pages** to deploy your site.
 
-## License
-This project is open-source under the MIT License.
-
 ## Contact
-For any inquiries, feel free to reach out via **your email or GitHub profile**.
+Email:matyostsegay@gmail.com
+github:https://github.com/matthewtsegay
 
 
